@@ -1,1 +1,1 @@
-Visit our website <a href="stuygwc.github.io">here</a>!
+Visit our website <a href="https://stuygwc.github.io">here</a>!
